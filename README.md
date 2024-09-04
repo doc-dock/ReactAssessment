@@ -1,4 +1,4 @@
-Por favor, leia estas instruções em voz alta, quando terminar, explique o que você entendeu do exercício. 
+Por favor, leia estas instruções, quando terminar, explique o que você entendeu do exercício. 
 
 O objetivo NÃO É COMPLETAR O MÁXIMO DE ETAPAS POSSÍVEIS, mas sim mostrar como voce trabalha e o sua abordagem para resolução de problemas. Fazer uma tarefa bem feita é preferível do que 3 tarefas com problemas.
 
